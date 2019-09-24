@@ -3,5 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/Mardoniosc/skylab.git",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@babel/cli": "^7.6.2",
+    "@babel/preset-env": "^7.6.2"
+  }
 }
